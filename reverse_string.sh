@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Author: Aravinthraj P
+
+# Script to reverse a string with special conditions
 
 # Function to reverse a string
 reverse_string() {
